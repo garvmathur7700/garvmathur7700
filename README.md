@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Welcome to my den, have a gander :)
+Welcome to my den, have a gander :)  
 Full Stack Developer (sorta:/)
