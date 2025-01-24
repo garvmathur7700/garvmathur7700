@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Garv
+## Hi there 👋
 
 <!--
 **garvmathur7700/garvmathur7700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my den, have a gander :)
+Full Stack Developer (sorta:/)
