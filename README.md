@@ -1,5 +1,4 @@
-[![garvmathur7700
-header](https://github.com/garvmathur7700/garvmathur7700/assets/github-header.png)]
+![Image](https://github.com/user-attachments/assets/55b149af-d7d4-49d9-9fa6-f0aec28d19b2)
 
 ## Hi there 👋
 
