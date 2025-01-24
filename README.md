@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 
 Welcome to my den, have a gander :)  
 Full Stack Developer (sorta:/)
+
+
+
+[![Garv's GitHub stats](https://github-readme-stats.vercel.app/api?username=garvmathur7700)](https://github.com/garvmathur7700/github-readme-stats)
