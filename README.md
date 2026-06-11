@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/55b149af-d7d4-49d9-9fa6-f0aec28d19b2)
 
 # 💫 About Me:
-🔭 I am currently working on a Smart Task Manager API<br>💻 I am currently learning Java and Java Springboot
+🔭 I am currently working on a [NanoURL](https://github.com/garvmathur7700/nano-url.git)<br>💻 I am currently learning Spring Boot testing and Cacheing using Redis/Valkey
 
 
 ## 🌐 Socials:
